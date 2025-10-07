@@ -420,7 +420,7 @@ const styles = {
   },
   category: {
     fontSize: '14px',
-    color: '#FF9933',
+    color: '#FF6B35',
     fontWeight: '600',
     textTransform: 'uppercase',
     marginBottom: '8px'
