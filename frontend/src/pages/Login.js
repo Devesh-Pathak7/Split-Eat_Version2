@@ -103,7 +103,7 @@ const styles = {
     alignItems: 'center',
     justifyContent: 'center',
     padding: '20px',
-    background: 'linear-gradient(135deg, #EC4899 0%, #3B82F6 50%, #06B6D4 100%)'
+    background: 'linear-gradient(135deg, #FFFFFF 0%, #FFF7ED 50%, #FFEDD5 100%)'
   },
   loginBox: {
     background: 'white',
@@ -111,7 +111,7 @@ const styles = {
     padding: '40px',
     maxWidth: '450px',
     width: '100%',
-    boxShadow: '0 20px 60px rgba(0, 0, 0, 0.2)'
+    boxShadow: '0 20px 60px rgba(255, 107, 53, 0.2)'
   },
   header: {
     textAlign: 'center',
@@ -120,7 +120,7 @@ const styles = {
   title: {
     fontSize: '36px',
     fontWeight: '800',
-    background: 'linear-gradient(135deg, #EC4899 0%, #A855F7 100%)',
+    background: 'linear-gradient(135deg, #FF6B35 0%, #FFA500 100%)',
     WebkitBackgroundClip: 'text',
     WebkitTextFillColor: 'transparent',
     marginBottom: '8px'
@@ -151,9 +151,9 @@ const styles = {
   info: {
     marginTop: '24px',
     padding: '16px',
-    background: '#FFF1F5',
+    background: '#FFF7ED',
     borderRadius: '12px',
-    borderLeft: '4px solid #EC4899'
+    borderLeft: '4px solid #FF6B35'
   },
   infoText: {
     fontSize: '14px',
