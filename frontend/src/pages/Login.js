@@ -151,9 +151,9 @@ const styles = {
   info: {
     marginTop: '24px',
     padding: '16px',
-    background: '#fff5e6',
+    background: '#FFF1F5',
     borderRadius: '12px',
-    borderLeft: '4px solid #FF9933'
+    borderLeft: '4px solid #EC4899'
   },
   infoText: {
     fontSize: '14px',
