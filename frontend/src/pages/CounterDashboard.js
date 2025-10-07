@@ -370,7 +370,8 @@ const styles = {
     justifyContent: 'space-between',
     padding: '12px 0',
     marginTop: '8px',
-    borderTop: '2px solid #f0f0f0'
+    borderTop: '2px solid #f0f0f0',
+    color: '#FF6B35'
   },
   matchedInfo: {
     background: '#d1ecf1',
