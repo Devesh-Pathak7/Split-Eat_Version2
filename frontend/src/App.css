@@ -32,7 +32,7 @@ body {
 
 /* Buttons */
 .btn-primary {
-  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+  background: linear-gradient(135deg, var(--primary) 0%, var(--accent) 100%);
   color: white;
   border: none;
   padding: 12px 24px;
@@ -40,16 +40,16 @@ body {
   font-weight: 600;
   cursor: pointer;
   transition: transform 0.2s, box-shadow 0.2s;
-  box-shadow: 0 4px 16px rgba(236, 72, 153, 0.3);
+  box-shadow: 0 4px 16px rgba(255, 107, 53, 0.3);
 }
 
 .btn-primary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 24px rgba(236, 72, 153, 0.5);
+  box-shadow: 0 6px 24px rgba(255, 107, 53, 0.5);
 }
 
 .btn-secondary {
-  background: linear-gradient(135deg, var(--success) 0%, var(--success-dark) 100%);
+  background: linear-gradient(135deg, var(--secondary) 0%, var(--dark-orange) 100%);
   color: white;
   border: none;
   padding: 12px 24px;
@@ -57,12 +57,12 @@ body {
   font-weight: 600;
   cursor: pointer;
   transition: transform 0.2s, box-shadow 0.2s;
-  box-shadow: 0 4px 16px rgba(16, 185, 129, 0.3);
+  box-shadow: 0 4px 16px rgba(255, 140, 66, 0.3);
 }
 
 .btn-secondary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 24px rgba(16, 185, 129, 0.5);
+  box-shadow: 0 6px 24px rgba(255, 140, 66, 0.5);
 }
 
 .btn-outline {
