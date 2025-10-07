@@ -32,52 +32,52 @@ body {
 
 /* Buttons */
 .btn-primary {
-  background: linear-gradient(135deg, var(--saffron) 0%, var(--orange) 100%);
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
   color: white;
   border: none;
   padding: 12px 24px;
-  border-radius: 8px;
+  border-radius: 12px;
   font-weight: 600;
   cursor: pointer;
   transition: transform 0.2s, box-shadow 0.2s;
-  box-shadow: 0 4px 12px rgba(255, 153, 51, 0.3);
+  box-shadow: 0 4px 16px rgba(236, 72, 153, 0.3);
 }
 
 .btn-primary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(255, 153, 51, 0.4);
+  box-shadow: 0 6px 24px rgba(236, 72, 153, 0.5);
 }
 
 .btn-secondary {
-  background: linear-gradient(135deg, var(--green) 0%, var(--dark-green) 100%);
+  background: linear-gradient(135deg, var(--success) 0%, var(--success-dark) 100%);
   color: white;
   border: none;
   padding: 12px 24px;
-  border-radius: 8px;
+  border-radius: 12px;
   font-weight: 600;
   cursor: pointer;
   transition: transform 0.2s, box-shadow 0.2s;
-  box-shadow: 0 4px 12px rgba(19, 136, 8, 0.3);
+  box-shadow: 0 4px 16px rgba(16, 185, 129, 0.3);
 }
 
 .btn-secondary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(19, 136, 8, 0.4);
+  box-shadow: 0 6px 24px rgba(16, 185, 129, 0.5);
 }
 
 .btn-outline {
   background: white;
-  color: var(--saffron);
-  border: 2px solid var(--saffron);
+  color: var(--primary);
+  border: 2px solid var(--primary);
   padding: 10px 22px;
-  border-radius: 8px;
+  border-radius: 12px;
   font-weight: 600;
   cursor: pointer;
   transition: all 0.2s;
 }
 
 .btn-outline:hover {
-  background: var(--saffron);
+  background: var(--primary);
   color: white;
 }
 
