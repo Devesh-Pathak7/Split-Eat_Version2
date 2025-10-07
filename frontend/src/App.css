@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', sans-serif;
-  background: linear-gradient(135deg, #fff5e6 0%, #ffe6cc 100%);
+  background: linear-gradient(135deg, #FFF1F5 0%, #E0F2FE 50%, #F0FDFA 100%);
   min-height: 100vh;
 }
 
@@ -14,16 +14,20 @@ body {
   min-height: 100vh;
 }
 
-/* Indian Theme Colors */
+/* Bright Modern Colors */
 :root {
-  --saffron: #FF9933;
+  --primary: #EC4899;
+  --primary-dark: #DB2777;
+  --secondary: #3B82F6;
+  --secondary-dark: #2563EB;
+  --accent: #F59E0B;
+  --accent-dark: #D97706;
+  --success: #10B981;
+  --success-dark: #059669;
   --white: #FFFFFF;
-  --green: #138808;
-  --navy-blue: #000080;
-  --orange: #FFAB00;
-  --yellow: #FFD700;
-  --light-orange: #fff5e6;
-  --dark-green: #0d5e06;
+  --light-bg: #FFF1F5;
+  --cyan: #06B6D4;
+  --purple: #A855F7;
 }
 
 /* Buttons */
