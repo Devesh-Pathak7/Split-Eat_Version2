@@ -285,7 +285,7 @@ const styles = {
   title: {
     fontSize: '32px',
     fontWeight: '800',
-    background: 'linear-gradient(135deg, #EC4899 0%, #A855F7 100%)',
+    background: 'linear-gradient(135deg, #FF6B35 0%, #FFA500 100%)',
     WebkitBackgroundClip: 'text',
     WebkitTextFillColor: 'transparent'
   },
