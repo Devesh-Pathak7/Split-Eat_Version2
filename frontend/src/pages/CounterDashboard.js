@@ -336,7 +336,7 @@ const styles = {
   tableNumber: {
     fontSize: '24px',
     fontWeight: '700',
-    color: '#FF9933',
+    color: '#FF6B35',
     marginBottom: '4px'
   },
   customerName: {
