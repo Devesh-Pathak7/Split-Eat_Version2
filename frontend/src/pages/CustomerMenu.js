@@ -363,9 +363,9 @@ const styles = {
   sessionsSection: {
     marginBottom: '32px',
     padding: '24px',
-    background: 'linear-gradient(135deg, #fff5e6 0%, #ffe6cc 100%)',
+    background: 'linear-gradient(135deg, #FFF7ED 0%, #FFEDD5 100%)',
     borderRadius: '16px',
-    border: '2px solid #FF9933'
+    border: '2px solid #FF6B35'
   },
   sectionTitle: {
     fontSize: '24px',
