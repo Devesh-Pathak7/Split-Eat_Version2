@@ -120,7 +120,7 @@ const styles = {
   title: {
     fontSize: '36px',
     fontWeight: '800',
-    background: 'linear-gradient(135deg, #FF9933 0%, #138808 100%)',
+    background: 'linear-gradient(135deg, #EC4899 0%, #A855F7 100%)',
     WebkitBackgroundClip: 'text',
     WebkitTextFillColor: 'transparent',
     marginBottom: '8px'
