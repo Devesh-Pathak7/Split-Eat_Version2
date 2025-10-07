@@ -305,7 +305,7 @@ const styles = {
   statValue: {
     fontSize: '36px',
     fontWeight: '800',
-    color: '#FF9933',
+    color: '#EC4899',
     marginBottom: '8px'
   },
   statLabel: {
