@@ -560,7 +560,7 @@ const styles = {
   statValue: {
     fontSize: '32px',
     fontWeight: '800',
-    color: '#FF9933',
+    color: '#EC4899',
     marginBottom: '8px'
   },
   statLabel: {
