@@ -351,7 +351,7 @@ const styles = {
   restaurantName: {
     fontSize: '32px',
     fontWeight: '800',
-    background: 'linear-gradient(135deg, #FF9933 0%, #138808 100%)',
+    background: 'linear-gradient(135deg, #FF6B35 0%, #FFA500 100%)',
     WebkitBackgroundClip: 'text',
     WebkitTextFillColor: 'transparent'
   },
