@@ -389,7 +389,7 @@ const styles = {
   sessionItemName: {
     fontSize: '18px',
     fontWeight: '700',
-    color: '#FF9933',
+    color: '#FF6B35',
     marginBottom: '8px'
   },
   sessionTable: {
