@@ -103,7 +103,7 @@ const styles = {
     alignItems: 'center',
     justifyContent: 'center',
     padding: '20px',
-    background: 'linear-gradient(135deg, #FF9933 0%, #FFFFFF 50%, #138808 100%)'
+    background: 'linear-gradient(135deg, #EC4899 0%, #3B82F6 50%, #06B6D4 100%)'
   },
   loginBox: {
     background: 'white',
